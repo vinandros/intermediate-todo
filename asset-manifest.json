@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/intermediate-todo/static/css/main.6b9e0e16.chunk.css",
+    "main.js": "/intermediate-todo/static/js/main.d3d51208.chunk.js",
+    "main.js.map": "/intermediate-todo/static/js/main.d3d51208.chunk.js.map",
+    "runtime-main.js": "/intermediate-todo/static/js/runtime-main.8fa7b51c.js",
+    "runtime-main.js.map": "/intermediate-todo/static/js/runtime-main.8fa7b51c.js.map",
+    "static/js/2.11d480f2.chunk.js": "/intermediate-todo/static/js/2.11d480f2.chunk.js",
+    "static/js/2.11d480f2.chunk.js.map": "/intermediate-todo/static/js/2.11d480f2.chunk.js.map",
+    "index.html": "/intermediate-todo/index.html",
+    "static/css/main.6b9e0e16.chunk.css.map": "/intermediate-todo/static/css/main.6b9e0e16.chunk.css.map",
+    "static/js/2.11d480f2.chunk.js.LICENSE.txt": "/intermediate-todo/static/js/2.11d480f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa7b51c.js",
+    "static/js/2.11d480f2.chunk.js",
+    "static/css/main.6b9e0e16.chunk.css",
+    "static/js/main.d3d51208.chunk.js"
+  ]
+}
